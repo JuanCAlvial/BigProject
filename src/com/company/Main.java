@@ -13,5 +13,10 @@ public class Main {
         trayo.temp = "123465";
         trayo.Heat = "40000k";
         trayo.Radius = "30146969546km";
+
+        Planet1 Fearo =new Planet1();
+        Fearo.color="red";
+        Fearo.Radius="87889km";
+
     }
 }
